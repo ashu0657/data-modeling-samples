@@ -1,0 +1,340 @@
+[{
+  "id": 892,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "60280603",
+  "userId": 331,
+  "borrowDate": {
+    "$date": "2022-06-17T01:55:03.966Z"
+  },
+  "dueDate": {
+    "$date": "2022-07-08T01:55:03.966Z"
+  },
+  "returnedDate": {
+    "$date": "2022-07-05T07:56:19.348Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 601,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "1841954748",
+  "userId": 230,
+  "borrowDate": {
+    "$date": "2023-08-21T14:07:45.052Z"
+  },
+  "dueDate": {
+    "$date": "2023-09-11T14:07:45.052Z"
+  },
+  "returnedDate": {
+    "$date": "2023-08-21T23:14:24.939Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 365,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "451458141",
+  "userId": 138,
+  "borrowDate": {
+    "$date": "2022-12-08T16:09:58.086Z"
+  },
+  "dueDate": {
+    "$date": "2022-12-29T16:09:58.086Z"
+  },
+  "returnedDate": {
+    "$date": "2022-12-15T07:43:08.834Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 1017,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "684717255",
+  "userId": 369,
+  "borrowDate": {
+    "$date": "2021-08-20T04:38:24.471Z"
+  },
+  "dueDate": {
+    "$date": "2021-09-10T04:38:24.471Z"
+  },
+  "returnedDate": {
+    "$date": "2021-09-04T09:00:04.090Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 781,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "590404032",
+  "userId": 297,
+  "borrowDate": {
+    "$date": "2023-04-16T03:14:08.514Z"
+  },
+  "dueDate": {
+    "$date": "2023-05-07T03:14:08.514Z"
+  },
+  "returnedDate": {
+    "$date": "2023-04-22T04:39:44.338Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 837,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "809239973",
+  "userId": 314,
+  "borrowDate": {
+    "$date": "2021-04-21T01:14:14.844Z"
+  },
+  "dueDate": {
+    "$date": "2021-05-12T01:14:14.844Z"
+  },
+  "returnedDate": {
+    "$date": "2021-05-04T03:42:24.861Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 302,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "822053098",
+  "userId": 113,
+  "borrowDate": {
+    "$date": "2021-02-16T20:50:14.790Z"
+  },
+  "dueDate": {
+    "$date": "2021-03-09T20:50:14.790Z"
+  },
+  "returnedDate": {
+    "$date": "2021-03-07T02:38:03.046Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 467,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "914171569",
+  "userId": 179,
+  "borrowDate": {
+    "$date": "2021-05-01T23:28:04.204Z"
+  },
+  "dueDate": {
+    "$date": "2021-05-22T23:28:04.204Z"
+  },
+  "returnedDate": {
+    "$date": "2021-05-15T08:43:23.770Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 712,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "553573357",
+  "userId": 268,
+  "borrowDate": {
+    "$date": "2022-11-28T23:32:56.567Z"
+  },
+  "dueDate": {
+    "$date": "2022-12-19T23:32:56.567Z"
+  },
+  "returnedDate": {
+    "$date": "2022-12-10T16:21:58.861Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 806,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "140585184",
+  "userId": 306,
+  "borrowDate": {
+    "$date": "2023-08-24T03:33:25.224Z"
+  },
+  "dueDate": {
+    "$date": "2023-09-14T03:33:25.224Z"
+  },
+  "returnedDate": {
+    "$date": "2023-08-29T21:42:14.372Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 907,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "670823643",
+  "userId": 333,
+  "borrowDate": {
+    "$date": "2021-04-24T14:25:14.879Z"
+  },
+  "dueDate": {
+    "$date": "2021-05-15T14:25:14.879Z"
+  },
+  "returnedDate": {
+    "$date": "2021-04-27T09:46:41.631Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 311,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "553275585",
+  "userId": 116,
+  "borrowDate": {
+    "$date": "2022-08-09T05:43:21.139Z"
+  },
+  "dueDate": {
+    "$date": "2022-08-30T05:43:21.139Z"
+  },
+  "returnedDate": {
+    "$date": "2022-08-14T19:42:48.696Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 58,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "440224047",
+  "userId": 29,
+  "borrowDate": {
+    "$date": "2023-05-26T20:36:59.695Z"
+  },
+  "dueDate": {
+    "$date": "2023-06-16T20:36:59.695Z"
+  },
+  "returnedDate": {
+    "$date": "2023-06-15T09:37:52.963Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 937,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "425174026",
+  "userId": 346,
+  "borrowDate": {
+    "$date": "2023-03-15T01:57:23.327Z"
+  },
+  "dueDate": {
+    "$date": "2023-04-05T01:57:23.327Z"
+  },
+  "returnedDate": {
+    "$date": "2023-03-29T01:21:59.467Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 485,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "679722319",
+  "userId": 189,
+  "borrowDate": {
+    "$date": "2021-04-19T10:12:04.030Z"
+  },
+  "dueDate": {
+    "$date": "2021-05-10T10:12:04.030Z"
+  },
+  "returnedDate": {
+    "$date": "2021-05-10T01:04:26.642Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 994,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "718143728",
+  "userId": 363,
+  "borrowDate": {
+    "$date": "2022-05-05T03:30:51.364Z"
+  },
+  "dueDate": {
+    "$date": "2022-05-26T03:30:51.364Z"
+  },
+  "returnedDate": {
+    "$date": "2022-05-06T16:35:53.127Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 441,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "553575295",
+  "userId": 168,
+  "borrowDate": {
+    "$date": "2021-07-20T01:43:43.616Z"
+  },
+  "dueDate": {
+    "$date": "2021-08-10T01:43:43.616Z"
+  },
+  "returnedDate": {
+    "$date": "2021-08-07T14:01:49.236Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 839,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "804107491",
+  "userId": 315,
+  "borrowDate": {
+    "$date": "2023-02-18T21:43:25.548Z"
+  },
+  "dueDate": {
+    "$date": "2023-03-11T21:43:25.548Z"
+  },
+  "returnedDate": {
+    "$date": "2023-02-20T02:41:41.298Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 639,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "1557044783",
+  "userId": 239,
+  "borrowDate": {
+    "$date": "2022-07-13T11:33:38.275Z"
+  },
+  "dueDate": {
+    "$date": "2022-08-03T11:33:38.275Z"
+  },
+  "returnedDate": {
+    "$date": "2022-07-14T17:59:04.117Z"
+  },
+  "expirationDate": null
+},
+{
+  "id": 879,
+  "recordType": "borrowedBook",
+  "returned": true,
+  "bookId": "229031482X",
+  "userId": 328,
+  "borrowDate": {
+    "$date": "2021-08-30T09:29:11.097Z"
+  },
+  "dueDate": {
+    "$date": "2021-09-20T09:29:11.097Z"
+  },
+  "returnedDate": {
+    "$date": "2021-09-06T00:36:16.318Z"
+  },
+  "expirationDate": null
+}]

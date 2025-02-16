@@ -1,0 +1,100 @@
+[{
+  "id": 41,
+  "name": "Holy Elephant",
+  "isAdmin": false
+},
+{
+  "id": 254,
+  "name": "Brash Alligator",
+  "isAdmin": false
+},
+{
+  "id": 80,
+  "name": "Tawdry Barracuda",
+  "isAdmin": false
+},
+{
+  "id": 236,
+  "name": "Daft Scorpion",
+  "isAdmin": false
+},
+{
+  "id": 426,
+  "name": "Callous Quetzal",
+  "isAdmin": false
+},
+{
+  "id": 363,
+  "name": "Nasty Narwhal",
+  "isAdmin": false
+},
+{
+  "id": 122,
+  "name": "Quiet Iguana",
+  "isAdmin": false
+},
+{
+  "id": 30,
+  "name": "Brash Iguana",
+  "isAdmin": false
+},
+{
+  "id": 71,
+  "name": "Tawdry Mongoose",
+  "isAdmin": false
+},
+{
+  "id": 310,
+  "name": "Luscious Jaguar",
+  "isAdmin": false
+},
+{
+  "id": 23,
+  "name": "Mushy Narwhal",
+  "isAdmin": false
+},
+{
+  "id": 87,
+  "name": "Eccentric Elephant",
+  "isAdmin": false
+},
+{
+  "id": 117,
+  "name": "Tawdry Scorpion",
+  "isAdmin": false
+},
+{
+  "id": 267,
+  "name": "Callous Elephant",
+  "isAdmin": false
+},
+{
+  "id": 7,
+  "name": "Killer Gorilla",
+  "isAdmin": false
+},
+{
+  "id": 215,
+  "name": "Rowdy Quetzal",
+  "isAdmin": false
+},
+{
+  "id": 349,
+  "name": "OldSchool Falcon",
+  "isAdmin": false
+},
+{
+  "id": 38,
+  "name": "Killer Falcon",
+  "isAdmin": false
+},
+{
+  "id": 24,
+  "name": "Mushy Tarantula",
+  "isAdmin": false
+},
+{
+  "id": 345,
+  "name": "OldSchool Barracuda",
+  "isAdmin": false
+}]

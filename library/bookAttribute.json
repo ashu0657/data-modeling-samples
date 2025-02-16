@@ -1,0 +1,100 @@
+[{
+  "key": "isbn",
+  "value": "312917813",
+  "bookId": "031298460X"
+},
+{
+  "key": "isbn10",
+  "value": "590425374",
+  "bookId": "059050214X"
+},
+{
+  "key": "isbn10",
+  "value": "1571100423",
+  "bookId": "157143013X"
+},
+{
+  "key": "edition",
+  "value": "Reissue",
+  "bookId": "671794795"
+},
+{
+  "key": "isbn",
+  "value": "912776366",
+  "bookId": "914846809"
+},
+{
+  "key": "edition",
+  "value": "1st",
+  "bookId": "64405176"
+},
+{
+  "key": "edition",
+  "value": "3rd",
+  "bookId": "826214398"
+},
+{
+  "key": "dimensions",
+  "value": "Height: 10 Inches, Length: 6.5 Inches, Weight: 1.55 Pounds, Width: 1.25 Inches",
+  "bookId": "385333390"
+},
+{
+  "key": "msrp",
+  "value": "2.95",
+  "bookId": "671736868"
+},
+{
+  "key": "msrp",
+  "value": "7.28",
+  "bookId": "034542476X"
+},
+{
+  "key": "msrp",
+  "value": "13",
+  "bookId": "553566903"
+},
+{
+  "key": "msrp",
+  "value": "3.5",
+  "bookId": "596001088"
+},
+{
+  "key": "isbn13",
+  "value": "9780060571832",
+  "bookId": "60594772"
+},
+{
+  "key": "isbn10",
+  "value": "889221839",
+  "bookId": "890154570"
+},
+{
+  "key": "isbn10",
+  "value": "446601829",
+  "bookId": "446675784"
+},
+{
+  "key": "isbn10",
+  "value": "786926813",
+  "bookId": "789467747"
+},
+{
+  "key": "isbn13",
+  "value": "9780071383318",
+  "bookId": "72229012"
+},
+{
+  "key": "edition",
+  "value": "1",
+  "bookId": "878578730"
+},
+{
+  "key": "isbn13",
+  "value": "9780952463801",
+  "bookId": "963641328"
+},
+{
+  "key": "msrp",
+  "value": "15",
+  "bookId": "471355232"
+}]

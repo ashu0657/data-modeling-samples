@@ -1,0 +1,80 @@
+[{
+  "id": 16,
+  "name": "Board book"
+},
+{
+  "id": 18,
+  "name": "Library Binding"
+},
+{
+  "id": 20,
+  "name": "Map"
+},
+{
+  "id": 1,
+  "name": "School & Library Binding"
+},
+{
+  "id": 23,
+  "name": "Cards"
+},
+{
+  "id": 17,
+  "name": "Turtleback"
+},
+{
+  "id": 21,
+  "name": "Pocket Book"
+},
+{
+  "id": 3,
+  "name": "Imitation Leather"
+},
+{
+  "id": 7,
+  "name": "Unbound"
+},
+{
+  "id": 11,
+  "name": "Unknown Binding"
+},
+{
+  "id": 22,
+  "name": "Looseleaf"
+},
+{
+  "id": 14,
+  "name": "Audio CD"
+},
+{
+  "id": 6,
+  "name": "Paperback"
+},
+{
+  "id": 9,
+  "name": "Vinyl Bound"
+},
+{
+  "id": 2,
+  "name": "Spiral-bound"
+},
+{
+  "id": 19,
+  "name": "Hardcover"
+},
+{
+  "id": 12,
+  "name": "Mass Market Paperback"
+},
+{
+  "id": 15,
+  "name": "Kindle Edition"
+},
+{
+  "id": 4,
+  "name": "Perfect Paperback"
+},
+{
+  "id": 24,
+  "name": "Pamphlet"
+}]

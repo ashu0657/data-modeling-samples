@@ -1,0 +1,100 @@
+[{
+  "id": 89,
+  "name": "Milpitas",
+  "countryId": 1
+},
+{
+  "id": 92,
+  "name": "Livermore",
+  "countryId": 1
+},
+{
+  "id": 34,
+  "name": "Miami",
+  "countryId": 1
+},
+{
+  "id": 45,
+  "name": "New Orleans",
+  "countryId": 1
+},
+{
+  "id": 25,
+  "name": "Baltimore",
+  "countryId": 1
+},
+{
+  "id": 12,
+  "name": "Jacksonville",
+  "countryId": 1
+},
+{
+  "id": 20,
+  "name": "Boston",
+  "countryId": 1
+},
+{
+  "id": 19,
+  "name": "Memphis",
+  "countryId": 1
+},
+{
+  "id": 76,
+  "name": "Delta",
+  "countryId": 2
+},
+{
+  "id": 6,
+  "name": "Philadelphia",
+  "countryId": 1
+},
+{
+  "id": 41,
+  "name": "Tampa",
+  "countryId": 1
+},
+{
+  "id": 74,
+  "name": "Surrey",
+  "countryId": 2
+},
+{
+  "id": 13,
+  "name": "Fort Worth",
+  "countryId": 1
+},
+{
+  "id": 43,
+  "name": "San Bernardino",
+  "countryId": 1
+},
+{
+  "id": 96,
+  "name": "Union City",
+  "countryId": 1
+},
+{
+  "id": 22,
+  "name": "Denver",
+  "countryId": 1
+},
+{
+  "id": 7,
+  "name": "San Antonio",
+  "countryId": 1
+},
+{
+  "id": 73,
+  "name": "Burnaby",
+  "countryId": 2
+},
+{
+  "id": 24,
+  "name": "Nashville",
+  "countryId": 1
+},
+{
+  "id": 51,
+  "name": "Montreal",
+  "countryId": 2
+}]

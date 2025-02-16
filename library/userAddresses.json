@@ -1,0 +1,120 @@
+[{
+  "id": 294,
+  "street": "High St 9",
+  "userId": 49,
+  "cityId": 65
+},
+{
+  "id": 429,
+  "street": "1st St 574",
+  "userId": 119,
+  "cityId": 70
+},
+{
+  "id": 932,
+  "street": "River Rd 554",
+  "userId": 378,
+  "cityId": 8
+},
+{
+  "id": 606,
+  "street": "River Rd 124",
+  "userId": 209,
+  "cityId": 43
+},
+{
+  "id": 769,
+  "street": "High St 551",
+  "userId": 289,
+  "cityId": 56
+},
+{
+  "id": 318,
+  "street": "2nd Ave 149",
+  "userId": 63,
+  "cityId": 51
+},
+{
+  "id": 357,
+  "street": "Maple Dr 873",
+  "userId": 85,
+  "cityId": 7
+},
+{
+  "id": 792,
+  "street": "Low St 88",
+  "userId": 302,
+  "cityId": 15
+},
+{
+  "id": 910,
+  "street": "Maple Dr 832",
+  "userId": 365,
+  "cityId": 83
+},
+{
+  "id": 394,
+  "street": "Low St 236",
+  "userId": 103,
+  "cityId": 1
+},
+{
+  "id": 985,
+  "street": "Oak Ave 206",
+  "userId": 404,
+  "cityId": 46
+},
+{
+  "id": 909,
+  "street": "Maple Dr 99",
+  "userId": 364,
+  "cityId": 24
+},
+{
+  "id": 532,
+  "street": "Main St 84",
+  "userId": 173,
+  "cityId": 65
+},
+{
+  "id": 521,
+  "street": "Hillside Ct 792",
+  "userId": 168,
+  "cityId": 25
+},
+{
+  "id": 416,
+  "street": "Pine Ln 529",
+  "userId": 114,
+  "cityId": 17
+},
+{
+  "id": 812,
+  "street": "2nd Ave 406",
+  "userId": 313,
+  "cityId": 65
+},
+{
+  "id": 579,
+  "street": "1st St 718",
+  "userId": 194,
+  "cityId": 64
+},
+{
+  "id": 886,
+  "street": "Oak Ave 872",
+  "userId": 353,
+  "cityId": 21
+},
+{
+  "id": 783,
+  "street": "River Rd 122",
+  "userId": 297,
+  "cityId": 75
+},
+{
+  "id": 547,
+  "street": "River Rd 441",
+  "userId": 180,
+  "cityId": 13
+}]

@@ -1,0 +1,182 @@
+[{
+  "id": 2347,
+  "name": "Mary Kay Andrews",
+  "sanitizedName": "marykayandrews",
+  "bio": "Mary Kay Andrews (born July 27, 1954) is the pen name of American writer Kathy Hogan Trocheck, based in Savannah, Georgia, who has authored a number of best-selling books under the Andrews pen name since 2002.Trochek graduated from the University of Georgia with a journalism degree in 1976.  She worked as a reporter at a number of papers, and spent 11 years as a reporter for the Atlanta Journal-Constitution before leaving to write fiction full-time in 1991.  She published ten mystery novels under her own name between 1992 and 2000, and switched to the Andrews pen name in 2002 to author Savannah Blues, which marked a change in her style to more Southern-flavored themes. Her pen name is inspired by the names of her children, Mary Kathleen and Andrew Trocheck.",
+  "awards": null
+},
+{
+  "id": 169,
+  "name": "Margaret Atwood",
+  "sanitizedName": "margaretatwood",
+  "bio": "Margaret Eleanor Atwood  (born November 18, 1939) is a Canadian poet, novelist, literary critic, essayist, teacher, environmental activist, and inventor. Since 1961, she has published eighteen books of poetry, eighteen novels, eleven books of non-fiction, nine collections of short fiction, eight children's books, two graphic novels, and a number of small press editions of both poetry and fiction. Atwood has won numerous awards and honors for her writing, including two Booker Prizes, the Arthur C. Clarke Award, the Governor General's Award, the Franz Kafka Prize, Princess of Asturias Awards, and the National Book Critics and PEN Center USA Lifetime Achievement Awards. A number of her works have been adapted for film and television.\\nAtwood's works encompass a variety of themes including gender and identity, religion and myth, the power of language, climate change, and \"power politics\". Many of her poems are inspired by myths and fairy tales which interested her from a very early age.\\nAtwood is a founder of the Griffin Poetry Prize and the Writers' Trust of Canada. She is also a Senior Fellow of Massey College, Toronto. She is the inventor of the LongPen device and associated technologies that facilitate remote robotic writing of documents.",
+  "awards": {
+    "brooker": [
+      {
+        "bookYear": 2000,
+        "bookTitle": "The Blind Assassin",
+        "ageWhenWon": 61
+      },
+      {
+        "bookYear": 2019,
+        "bookTitle": "The Testaments",
+        "ageWhenWon": 80
+      }
+    ],
+    "ArthurCClarke ": [
+      {
+        "bookYear": 1987,
+        "bookTitle": "The Handmaid's Tale ",
+        "ageWhenWon": 47
+      }
+    ]
+  }
+},
+{
+  "id": 6172,
+  "name": "Tamara K. Hareven",
+  "sanitizedName": "tamarakhareven",
+  "bio": "Tamara Kern Hareven (May 10, 1937 – October 18, 2002) was a social historian who wrote extensively on the history of the family and the effects of social changes on family lives. Her books include Families, History and Social Change and Aging and Generational Relations. Born in Chernivtsi, Romania (now Ukraine), and of Jewish origin, she died of kidney failure at the age of 65.",
+  "awards": null
+},
+{
+  "id": 927,
+  "name": "Neale Donald Walsch",
+  "sanitizedName": "nealedonaldwalsch",
+  "bio": "Neale Donald Walsch (born September 10, 1943) is an American author of the series Conversations with God. He is also an actor, screenwriter, and speaker.",
+  "awards": null
+},
+{
+  "id": 378,
+  "name": "Salman Rushdie",
+  "sanitizedName": "salmanrushdie",
+  "bio": "Sir Ahmed Salman Rushdie  (; born 19 June 1947) is an Indian-born British-American novelist. His work often combines magic realism with historical fiction and primarily deals with connections, disruptions, and migrations between Eastern and Western civilizations, typically set on the Indian subcontinent. Rushdie's second novel, Midnight's Children (1981), won the Booker Prize in 1981 and was deemed to be \"the best novel of all winners\" on two occasions, marking the 25th and the 40th anniversary of the prize.\\nAfter his fourth novel, The Satanic Verses (1988), Rushdie became the subject of several assassination attempts and death threats, including a fatwa calling for his death issued by Ruhollah Khomeini, the supreme leader of Iran. Numerous killings and bombings have been carried out by extremists who cite the book as motivation, sparking a debate about censorship and religiously motivated violence. In 2022, a man stabbed Rushdie after rushing onto the stage where the novelist was scheduled to deliver a lecture at an event in Chautauqua, New York.In 1983, Rushdie was elected a fellow of the Royal Society of Literature. He was appointed a Commandeur de l'Ordre des Arts et des Lettres of France in 1999. Rushdie was knighted in 2007 for his services to literature. In 2008, The Times ranked him 13th on its list of the 50 greatest British writers since 1945. Since 2000, Rushdie has lived in the United States. He was named Distinguished Writer in Residence at the Arthur L. Carter Journalism Institute of New York University in 2015. Earlier, he taught at Emory University. He was elected to the American Academy of Arts and Letters. In 2012, he published Joseph Anton: A Memoir, an account of his life in the wake of the events following The Satanic Verses. Rushdie was named one of the 100 most influential people in the world by Time magazine in April 2023.",
+  "awards": {
+    "brooker": [
+      {
+        "bookYear": 1981,
+        "bookTitle": "Midnight's Children",
+        "ageWhenWon": 34
+      }
+    ]
+  }
+},
+{
+  "id": 2267,
+  "name": "Jodie Larsen",
+  "sanitizedName": "jodielarsen",
+  "bio": null,
+  "awards": null
+},
+{
+  "id": 1009,
+  "name": "Michio Kaku",
+  "sanitizedName": "michiokaku",
+  "bio": "Michio Kaku (Japanese: カク ミチオ, 加來 道雄, ; born January 24, 1947) is an American theoretical physicist, activist, futurologist, and popular science writer. He is a professor of theoretical physics in the City College of New York and CUNY Graduate Center. Kaku is the author of several books about physics and related topics and has made frequent appearances on radio, television, and film. He is also a regular contributor to his own blog, as well as other popular media outlets. For his efforts to bridge science and science fiction, he is a 2021 Sir Arthur Clarke Lifetime Achievement Awardee.His books Physics of the Impossible (2008), Physics of the Future (2011), The Future of the Mind (2014), and The God Equation: The Quest for a Theory of Everything (2021) became New York Times best sellers. Kaku has hosted several television specials for the BBC, the Discovery Channel, the History Channel, and the Science Channel.",
+  "awards": null
+},
+{
+  "id": 2202,
+  "name": "Penny Frank",
+  "sanitizedName": "pennyfrank",
+  "bio": null,
+  "awards": null
+},
+{
+  "id": 3624,
+  "name": "Timothy Mikkelsen",
+  "sanitizedName": "timothymikkelsen",
+  "bio": null,
+  "awards": null
+},
+{
+  "id": 649,
+  "name": "Sandra Hill",
+  "sanitizedName": "sandrahill",
+  "bio": "Sandra Hill may refer to:\\n\\nSandy Hill (television personality) (born 1947), American broadcast journalist\\nSandy Hill (mountaineer) (born 1955), American author\\nSandra Hill (footballer) (born 1998), Cambodian futsal player",
+  "awards": null
+},
+{
+  "id": 458,
+  "name": "Max Frisch",
+  "sanitizedName": "maxfrisch",
+  "bio": "Max Rudolf Frisch (German: [maks ˈfʁɪʃ] (listen); 15 May 1911 – 4 April 1991) was a Swiss playwright and novelist. Frisch's works focused on problems of identity, individuality, responsibility, morality, and political commitment. The use of irony is a significant feature of his post-war output. Frisch was one of the founders of Gruppe Olten. He was awarded the 1965 Jerusalem Prize, the 1973 Grand Schiller Prize, and the 1986 Neustadt International Prize for Literature.",
+  "awards": null
+},
+{
+  "id": 494,
+  "name": "Graham Greene",
+  "sanitizedName": "grahamgreene",
+  "bio": "Henry Graham Greene  (2 October 1904 – 3 April 1991) was an English writer and journalist regarded by many as one of the leading novelists of the 20th century.Combining literary acclaim with widespread popularity, Greene acquired a reputation early in his lifetime as a major writer, both of serious Catholic novels, and of thrillers (or \"entertainments\" as he termed them). He was shortlisted for the Nobel Prize in Literature several times. Through 67 years of writing, which included over 25 novels, he explored the conflicting moral and political issues of the modern world. He was awarded the 1968 Shakespeare Prize and the 1981 Jerusalem Prize.\\nHe converted to Catholicism in 1926 after meeting his future wife, Vivien Dayrell-Browning. Later in life he took to calling himself a \"Catholic agnostic\".\\nHe died in 1991, aged 86, of leukemia, and was buried in Corseaux cemetery in Switzerland.\\n\\n",
+  "awards": null
+},
+{
+  "id": 5201,
+  "name": "Oliver Trager",
+  "sanitizedName": "olivertrager",
+  "bio": null,
+  "awards": null
+},
+{
+  "id": 225,
+  "name": "Mercedes Lackey",
+  "sanitizedName": "mercedeslackey",
+  "bio": "Mercedes Ritchie Lackey (born June 24, 1950) is an American writer of fantasy novels. Many of her novels and trilogies are interlinked and set in the world of Velgarth, mostly in and around the country of Valdemar.  Her Valdemar novels include interaction between human and non-human protagonists with many different cultures and social mores.\\nHer other main world is one much like our own, but it includes clandestine populations of elves, mages, vampires, and other mythical beings. The Bedlam's Bard books describe a young man with the power to work magic through music; the SERRAted Edge books are about racecar driving elves; and the Diana Tregarde thrillers center on a Wiccan who combats evil.\\nShe has also published several novels re-working well-known fairy tales set in a mid-19th to early 20th century setting in which magic is real, although hidden from the mundane world.  These novels explore issues of ecology, social class, and gender roles.\\nLackey has published over 140 books and writes novels at a rate of 5.5 per year on average. She has been called one of the \"most prolific science fiction and fantasy writers of all time.\" In 2021, Lackey was named the 38th Damon Knight Grand Master.\\n\\n",
+  "awards": null
+},
+{
+  "id": 983,
+  "name": "Orhan Pamuk",
+  "sanitizedName": "orhanpamuk",
+  "bio": "Ferit Orhan Pamuk (born 7 June 1952; Turkish pronunciation: [feˈɾit oɾˈhan paˈmuk]) is a Turkish novelist, screenwriter, academic, and recipient of the 2006 Nobel Prize in Literature. One of Turkey's most prominent novelists, he has sold over 13 million books in 63 languages, making him the country's best-selling writer.Pamuk's novels include Silent House, The White Castle, The Black Book, The New Life, My Name Is Red and Snow. He is the Robert Yik-Fong Tam Professor in the Humanities at Columbia University, where he teaches writing and comparative literature. He was elected to the American Philosophical Society in 2018.Of partial Circassian descent and born in Istanbul, Pamuk is the first Turkish Nobel laureate. He is also the recipient of numerous other literary awards. My Name Is Red won the 2002 Prix du Meilleur Livre Étranger, 2002 Premio Grinzane Cavour and 2003 International Dublin Literary Award.\\nThe European Writers' Parliament came about as a result of a joint proposal by Pamuk and José Saramago. Pamuk's willingness to write books about contentious historical and political events put him at risk of censure in his homeland. In 2005, a lawyer sued him over a statement acknowledging the Armenian genocide in the Ottoman Empire. Pamuk said his intention had been to highlight issues of freedom of speech in Turkey. The court initially declined to hear the case, but in 2011 Pamuk was ordered to pay 6,000 liras in compensation for having insulted the plaintiffs' honor.",
+  "awards": null
+},
+{
+  "id": 374,
+  "name": "Greg Bear",
+  "sanitizedName": "gregbear",
+  "bio": "Gregory Dale Bear (August 20, 1951 – November 19, 2022) was an American writer and illustrator best known for science fiction. His work covered themes of galactic conflict (Forge of God books), parallel universes (The Way series), consciousness and cultural practices (Queen of Angels), and accelerated evolution (Blood Music, Darwin's Radio, and Darwin's Children). His most recent work was the 2021 novel The Unfinished Land. Greg Bear wrote over 50 books in total.",
+  "awards": null
+},
+{
+  "id": 2656,
+  "name": "Elsa Z. Posell",
+  "sanitizedName": "elsazposell",
+  "bio": null,
+  "awards": null
+},
+{
+  "id": 529,
+  "name": "Sara Pritchard",
+  "sanitizedName": "sarapritchard",
+  "bio": "Sara B. Pritchard (born 1972) is an American historian of technology and environmental historian. She has written books on environmental technology and history. Pritchard is an associate professor of science and technology studies at Cornell University College of Arts and Sciences.",
+  "awards": null
+},
+{
+  "id": 5771,
+  "name": "Andrea Helm",
+  "sanitizedName": "andreahelm",
+  "bio": null,
+  "awards": null
+},
+{
+  "id": 1388,
+  "name": "Robert Kraus",
+  "sanitizedName": "robertkraus",
+  "bio": "Robert Kraus (June 21, 1925 – August 7, 2001) was an American children's author illustrator, cartoonist and publisher. His successful career began early at the New Yorker, producing over hundreds of cartoons and nearly two dozen covers for the magazine over 15 years. Afterwards, he pivoted his career to children's literature, writing and illustrating over 100 children’s books and publishing even more as the founder of Windmill Books Publishing House. His body of work is best remembered for depicting animal heroes who always try their best and never give up, which were ideals important to him at an early age.",
+  "awards": null
+},
+{
+  "id": 351,
+  "name": "Reay Tannahill",
+  "sanitizedName": "reaytannahill",
+  "bio": "Reay Tannahill (9 December 1929 – 2 November 2007) was a British historian, non-fiction writer, and novelist, best known perhaps for two non-fiction bestsellers: Food in History and Sex in History. She also wrote under the pseudonym Annabel Laine. Her novel Passing Glory won in 1990 the Romantic Novel of the Year Award by the Romantic Novelists' Association.",
+  "awards": null
+},
+{
+  "id": 3309,
+  "name": "Pat Yale",
+  "sanitizedName": "patyale",
+  "bio": null,
+  "awards": null
+}]

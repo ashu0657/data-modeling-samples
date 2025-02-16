@@ -1,0 +1,220 @@
+[{
+  "text": "This book is absolutely amazing! The characters are so well-developed and relatable, and the storyline kept me hooked from start to finish. The writing style is beautiful, and the author's attention to detail is remarkable. I couldn't put this book down and finished it in record time. Highly recommend!",
+  "rating": {
+    "$numberDecimal": "5"
+  },
+  "timestamp": {
+    "$date": "2019-08-02T15:59:05.313Z"
+  },
+  "bookId": "1881527018",
+  "userId": 8
+},
+{
+  "text": "This book was a rollercoaster of emotions! The characters were well-developed and the story kept me captivated from beginning to end. The plot twists were unexpected and added an extra layer of excitement. The only reason I'm not giving it a 5-star rating is because the ending felt a bit rushed. Overall, a highly enjoyable read!",
+  "rating": {
+    "$numberDecimal": "4"
+  },
+  "timestamp": {
+    "$date": "2023-07-13T10:02:46.892Z"
+  },
+  "bookId": "312965788",
+  "userId": 79
+},
+{
+  "text": "I recently read a book that was a complete disappointment. The plot was nonexistent, the characters were one-dimensional, and the writing style was bland. I struggled to finish it and felt like I wasted my time. I cannot recommend this book to anyone.",
+  "rating": {
+    "$numberDecimal": "1"
+  },
+  "timestamp": {
+    "$date": "2020-10-19T11:45:35.841Z"
+  },
+  "bookId": "1570622140",
+  "userId": 66
+},
+{
+  "text": "This book is absolutely captivating! The story is so well-written and the characters are incredibly relatable. I couldn't put it down and found myself completely immersed in the world the author created. The themes explored in this book are thought-provoking and leave a lasting impact. I highly recommend it to anyone looking for an unforgettable reading experience.",
+  "rating": {
+    "$numberDecimal": "5"
+  },
+  "timestamp": {
+    "$date": "2018-10-27T23:13:57.448Z"
+  },
+  "bookId": "059039696X",
+  "userId": 143
+},
+{
+  "text": "I recently read a book that completely captivated me from start to finish. The storytelling was immersive, the characters were well-developed, and the plot was full of surprises. I couldn't put it down! The author's writing style had a perfect balance of descriptive and engaging, making it easy to visualize the scenes and feel connected to the story. The themes explored in this book were thought-provoking and left a lasting impact. Overall, it was an incredible reading experience and I highly recommend it to anyone who enjoys well-crafted stories.",
+  "rating": {
+    "$numberDecimal": "5"
+  },
+  "timestamp": {
+    "$date": "2022-05-19T04:14:29.331Z"
+  },
+  "bookId": "805210342",
+  "userId": 136
+},
+{
+  "text": "This book was an average read. It had its moments, but overall, it didn't leave a lasting impression. The characters were forgettable and the plot was predictable. The writing style was decent, but it lacked depth and complexity. I expected more from this book, but it fell short of my expectations.",
+  "rating": {
+    "$numberDecimal": "3"
+  },
+  "timestamp": {
+    "$date": "2022-03-18T22:40:14.488Z"
+  },
+  "bookId": "307119750",
+  "userId": 183
+},
+{
+  "text": null,
+  "rating": {
+    "$numberDecimal": "5"
+  },
+  "timestamp": {
+    "$date": "2019-10-03T16:11:42.386Z"
+  },
+  "bookId": "689707738",
+  "userId": 104
+},
+{
+  "text": "The book was an enjoyable read. The plot was engaging and the characters were well-developed. However, I felt that the ending was a bit rushed and could have been better. Overall, it was an average book.",
+  "rating": {
+    "$numberDecimal": "3"
+  },
+  "timestamp": {
+    "$date": "2021-12-21T19:58:21.823Z"
+  },
+  "bookId": "1560795905",
+  "userId": 170
+},
+{
+  "text": "This book was a huge disappointment. The writing was amateurish and the plot was painfully predictable. The characters were poorly developed and lacked depth. I found it hard to connect with any of them. Overall, it was a frustrating and unsatisfying reading experience.",
+  "rating": {
+    "$numberDecimal": "1"
+  },
+  "timestamp": {
+    "$date": "2020-10-22T03:14:25.698Z"
+  },
+  "bookId": "840802518X",
+  "userId": 83
+},
+{
+  "text": "This book was absolutely amazing! The writing style was captivating, and the characters were so well-developed. The story kept me hooked from beginning to end, and I couldn't put it down. The themes explored were thought-provoking and the plot twists were unexpected. Highly recommend!",
+  "rating": {
+    "$numberDecimal": "5"
+  },
+  "timestamp": {
+    "$date": "2023-09-20T15:30:07.335Z"
+  },
+  "bookId": "531047377",
+  "userId": 113
+},
+{
+  "text": "I found this book to be average. The plot was predictable and the characters were not very well-developed. However, the writing style was easy to read and there were a few interesting moments. Overall, it was an okay read.",
+  "rating": {
+    "$numberDecimal": "3"
+  },
+  "timestamp": {
+    "$date": "2023-03-20T02:06:53.698Z"
+  },
+  "bookId": "871318784",
+  "userId": 43
+},
+{
+  "text": "I thoroughly enjoyed this book! The storyline was captivating, and the characters were well-developed. The writing style was engaging and kept me hooked until the very end. Highly recommend!",
+  "rating": {
+    "$numberDecimal": "5"
+  },
+  "timestamp": {
+    "$date": "2021-10-07T16:29:51.597Z"
+  },
+  "bookId": "1561705675",
+  "userId": 174
+},
+{
+  "text": "I really enjoyed this book. It had an engaging storyline and well-developed characters. The writing style was fluid and descriptive, making it easy to visualize the scenes. I was hooked from the first chapter and couldn't put it down. Highly recommended!",
+  "rating": {
+    "$numberDecimal": "4"
+  },
+  "timestamp": {
+    "$date": "2021-09-23T09:09:04.019Z"
+  },
+  "bookId": "671795228",
+  "userId": 95
+},
+{
+  "text": "The book had its moments, but overall, it was a bit disappointing. The plot was slow and confusing, and the characters lacked depth. However, the writing style was enjoyable, and there were a few intriguing twists. Not the best book I've read, but not the worst either.",
+  "rating": {
+    "$numberDecimal": "3"
+  },
+  "timestamp": {
+    "$date": "2021-10-23T22:34:11.592Z"
+  },
+  "bookId": "067976349X",
+  "userId": 181
+},
+{
+  "text": "The book was mediocre. The plot lacked originality and the characters were underdeveloped. However, the writing style was decent and there were a few interesting moments throughout the story.",
+  "rating": {
+    "$numberDecimal": "3"
+  },
+  "timestamp": {
+    "$date": "2018-12-05T04:33:22.701Z"
+  },
+  "bookId": "689866232",
+  "userId": 169
+},
+{
+  "text": "I recently finished a book that completely captivated me. The storytelling was exceptional, and I found myself unable to put the book down. The characters were well-developed and relatable, and their journeys were both heartwarming and thought-provoking. The writing style was beautiful, with vivid descriptions that transported me to the settings of the story. Overall, I highly recommend this book to anyone who enjoys a compelling and immersive read.",
+  "rating": {
+    "$numberDecimal": "5"
+  },
+  "timestamp": {
+    "$date": "2022-11-28T11:11:26.352Z"
+  },
+  "bookId": "9783498063610",
+  "userId": 168
+},
+{
+  "text": "This book was an enjoyable and thought-provoking read. The storytelling was engaging and kept me hooked until the end. The characters were well-developed and relatable, allowing me to empathize with their struggles and triumphs. The themes explored in the book were thought-provoking and sparked important conversations. Overall, a solid read that I would recommend to others.",
+  "rating": {
+    "$numberDecimal": "4"
+  },
+  "timestamp": {
+    "$date": "2019-09-16T10:36:35.686Z"
+  },
+  "bookId": "312965788",
+  "userId": 80
+},
+{
+  "text": "I thoroughly enjoyed this book. The storyline was captivating and kept me hooked from beginning to end. The characters were well-developed and relatable, making me feel invested in their journey. The writing style was superb, with beautiful descriptions and smooth flow. Overall, I highly recommend this book to all readers who enjoy a great story and well-crafted writing.",
+  "rating": {
+    "$numberDecimal": "4"
+  },
+  "timestamp": {
+    "$date": "2020-07-06T05:28:53.405Z"
+  },
+  "bookId": "087905784X",
+  "userId": 64
+},
+{
+  "text": "I thoroughly enjoyed this book! The characters were well-developed and the plot kept me engaged from beginning to end. The writing was descriptive and captivating. Highly recommended!",
+  "rating": {
+    "$numberDecimal": "4"
+  },
+  "timestamp": {
+    "$date": "2020-08-02T05:10:05.979Z"
+  },
+  "bookId": "486403459",
+  "userId": 19
+},
+{
+  "text": "I thoroughly enjoyed reading this book. The story was captivating and kept me engaged from start to finish. The characters were well-developed and relatable, and the writing style was beautiful. I would highly recommend this book to any reader looking for a compelling and thought-provoking story.",
+  "rating": {
+    "$numberDecimal": "4"
+  },
+  "timestamp": {
+    "$date": "2021-07-24T12:12:43.865Z"
+  },
+  "bookId": "312115369",
+  "userId": 7
+}]
