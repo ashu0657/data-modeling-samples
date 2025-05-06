@@ -317,4 +317,20 @@
   "publisherId": 766,
   "bindingId": 6,
   "languageId": 1
-}]
+},
+  {
+    "id": "15713125955",
+    "title": "Oxford Dictionary",
+    "pages": 192,
+    "year": 2025,
+    "synopsis": "The Internet and the World Wide Web have made searching family histories fast, fun, and easy. In this humorous and informative book, readers will find genealogical programs, resources available through the Internet, and online databases where one can search for family information.",
+    "cover": "https://images.isbndb.com/covers/00/99/9781570900099.jpg",
+    "totalInventory": 2,
+    "available": 2,
+    "longTitle": "Oxford Dictionary",
+    "bookOfTheMonth": null,
+    "tags": "finance,development",
+    "publisherId": 308,
+    "bindingId": 67,
+    "languageId": 1
+  }]
